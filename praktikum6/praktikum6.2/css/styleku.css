@@ -1,0 +1,53 @@
+body {
+    background-color: gainsboro;
+  }
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+blockquote {
+    color: red;
+}
+
+#header {
+    background-color: orange;
+}
+
+blockquote {
+    background-color: yellow;
+    text-align: center;
+    border: 1px solid;
+}
+
+.gambar {
+    text-align: center;
+}
+
+
+.koleksi {
+    background-color: ivory;
+    margin: 0 auto;
+    width: 100;
+    border: 3px double black;
+}
+
+.koleksi img {
+    width: 200px;
+    display: inline;
+}
+
+.promo {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.promo, .h2, .h3{
+    text-align: center;
+    color: red;
+    background-color: lightgreen;
+    border: 2px solid black;
+}
+
+
